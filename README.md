@@ -179,7 +179,7 @@ flowchart TD
 
 <p align="center">
   <a href="https://leetcode.com/u/tanmaynolkha/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Fira+Code&ext=heatmap"
+    <img src="https://leetcard.jacoblin.cool/tanmaynolkha?theme=dark&font=Fira+Code&ext=heatmap"
          alt="LeetCode Stats" />
   </a>
 </p>
