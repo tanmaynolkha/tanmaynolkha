@@ -140,10 +140,11 @@ A smart irrigation system prototype for precision farming.
   />
 </p>
 
-
+## 📊 Contribution Activity
 
 <!-- BEGIN ACTIVITY-GRAPH -->
 <!-- END ACTIVITY-GRAPH -->
+
 ---
 
 ## 🐍 Contribution Snake
