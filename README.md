@@ -143,39 +143,14 @@ A smart irrigation system prototype for precision farming.
 
 
 <!-- BEGIN ACTIVITY-GRAPH -->
-
-name: Activity Graph
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  activity-graph:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate Activity Graph
-        uses: alexcerezo/activity-graph@v1
-        with:
-          username: tanmaynolkha
-
 <!-- END ACTIVITY-GRAPH -->
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tanmaynolkha/tanmaynolkha/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/tanmaynolkha/tanmaynolkha/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
-
-*This animation requires a GitHub Actions workflow to generate the SVG.*
-
 ---
 
 ## 📫 Connect With Me
