@@ -54,6 +54,81 @@ I enjoy exploring datasets, developing machine learning models, solving problems
 
 ---
 
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  A selection of my work in Machine Learning,
+  Data Science, and predictive analytics.
+</p>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🏦 Loan Approval Prediction</h3>
+<p align="center">
+An end-to-end ML system that predicts loan
+approval using multiple classification models
+and a Flask web interface.
+</p>
+<p align="center">
+Python · Pandas · NumPy · Scikit-learn · Flask
+</p>
+<p align="center">
+<a href="https://github.com/tanmaynolkha/Loan_Approval_Prediction">
+View Repository →
+</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">🌍 Population Growth Forecasting</h3>
+<p align="center">
+An interactive application to analyze historical
+population trends and forecast future population
+across countries.
+</p>
+<p align="center">
+Python · Flask · Scikit-learn · Chart.js
+</p>
+<p align="center">
+<a href="https://github.com/tanmaynolkha/population_growth_forecasting">
+View Repository →
+</a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">🚗 Car Price Prediction</h3>
+<p align="center">
+A machine learning project exploring car
+price data and predictive modeling.
+</p>
+<p align="center">
+Python · Jupyter Notebook
+</p>
+<p align="center">
+<a href="https://github.com/tanmaynolkha/ml_project">
+View Repository →
+</a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🔬 More Projects</h3>
+<p align="center">
+Explore my other experiments, learning projects,
+and open-source contributions.
+</p>
+<p align="center">
+<a href="https://github.com/tanmaynolkha?tab=repositories">
+Explore All Repositories →
+</a>
+</p>
+</td>
+</tr>
+</table>
+
+
 ## 🔄 My Data Science Workflow
 
 ```mermaid
