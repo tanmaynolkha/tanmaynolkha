@@ -133,8 +133,15 @@ A smart irrigation system prototype for precision farming.
 
 ### 📈 Contribution Activity
 
+
+<h2 align="center">📊 Contribution Activity</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmaynolkha&theme=github-compact&hide_border=true" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tanmaynolkha"
+    alt="Tanmay's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
