@@ -158,29 +158,6 @@ flowchart TD
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. Loan Approval Prediction
-Machine learning classification project with a Flask application.
-
-**Technologies:** Python, Scikit-learn, Flask
-
-[View Repository](https://github.com/tanmaynolkha/Loan_Approval_Prediction)
-
-### 2. E-Commerce Customer Segmentation
-Customer segmentation using K-Means clustering to identify customer groups.
-
-**Technologies:** Python, Pandas, NumPy, Scikit-learn
-
-[Explore My GitHub](https://github.com/tanmaynolkha)
-
-### 3. Rajasthan Trails and Tales
-A tourism-focused digital platform prototype.
-
-### 4. FarmSathi
-A smart irrigation system prototype for precision farming.
-
----
 
 ## 🌍 Open Source Journey
 
@@ -198,7 +175,14 @@ A smart irrigation system prototype for precision farming.
 - 🎓 Tata GenAI Powered Data Analytics Virtual Internship.
 
 ---
+## 🧩 LeetCode Stats
 
+<p align="center">
+  <a href="https://leetcode.com/u/tanmaynolkha/">
+    <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Fira+Code&ext=heatmap"
+         alt="LeetCode Stats" />
+  </a>
+</p>
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -243,7 +227,7 @@ A smart irrigation system prototype for precision farming.
   <a href="https://github.com/tanmaynolkha">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/tanmay-nolkha/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
