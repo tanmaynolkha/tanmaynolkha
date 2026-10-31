@@ -54,43 +54,42 @@ I enjoy exploring datasets, developing machine learning models, solving problems
 
 ---
 
+
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
-  A selection of my work in Machine Learning,
-  Data Science, and predictive analytics.
+  Building practical solutions using Data Science,
+  Machine Learning and Python.
 </p>
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🏦 Loan Approval Prediction</h3>
+<h3 align="center">📊 Customer Segmentation</h3>
 <p align="center">
-An end-to-end ML system that predicts loan
-approval using multiple classification models
-and a Flask web interface.
+Applied K-Means clustering to group customers
+and discover meaningful patterns in customer data.
 </p>
 <p align="center">
-Python · Pandas · NumPy · Scikit-learn · Flask
+Python · Pandas · Scikit-learn · K-Means
 </p>
 <p align="center">
-<a href="https://github.com/tanmaynolkha/Loan_Approval_Prediction">
+<a href="https://github.com/tanmaynolkha/Customer_segmentation">
 View Repository →
 </a>
 </p>
 </td>
 
 <td width="50%">
-<h3 align="center">🌍 Population Growth Forecasting</h3>
+<h3 align="center">🏦 Loan Approval Prediction</h3>
 <p align="center">
-An interactive application to analyze historical
-population trends and forecast future population
-across countries.
+An ML-based loan approval prediction system
+with a Flask web application.
 </p>
 <p align="center">
-Python · Flask · Scikit-learn · Chart.js
+Python · Scikit-learn · Flask
 </p>
 <p align="center">
-<a href="https://github.com/tanmaynolkha/population_growth_forecasting">
+<a href="https://github.com/tanmaynolkha/Loan_Approval_Prediction">
 View Repository →
 </a>
 </p>
@@ -99,10 +98,26 @@ View Repository →
 
 <tr>
 <td width="50%">
+<h3 align="center">🌍 Population Growth Forecasting</h3>
+<p align="center">
+Analyze population trends and forecast future
+population using regression.
+</p>
+<p align="center">
+Python · Flask · Scikit-learn
+</p>
+<p align="center">
+<a href="https://github.com/tanmaynolkha/population_growth_forecasting">
+View Repository →
+</a>
+</p>
+</td>
+
+<td width="50%">
 <h3 align="center">🚗 Car Price Prediction</h3>
 <p align="center">
-A machine learning project exploring car
-price data and predictive modeling.
+A machine learning project focused on
+car price prediction.
 </p>
 <p align="center">
 Python · Jupyter Notebook
@@ -113,20 +128,9 @@ View Repository →
 </a>
 </p>
 </td>
-<td width="50%">
-<h3 align="center">🔬 More Projects</h3>
-<p align="center">
-Explore my other experiments, learning projects,
-and open-source contributions.
-</p>
-<p align="center">
-<a href="https://github.com/tanmaynolkha?tab=repositories">
-Explore All Repositories →
-</a>
-</p>
-</td>
 </tr>
 </table>
+
 
 
 ## 🔄 My Data Science Workflow
