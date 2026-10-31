@@ -1,4 +1,3 @@
-
 name: Activity Graph
 
 on:
@@ -14,8 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate Activity Graph
-        uses: alexcerezo/activity-graph@v1
+      - uses: alexcerezo/activity-graph@v1
         with:
           username: tanmaynolkha
