@@ -120,30 +120,52 @@ A smart irrigation system prototype for precision farming.
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanmaynolkha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaynolkha&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=tanmaynolkha&hide_border=true&theme=transparent" />
-</p>
-
-### 📈 Contribution Activity
-
-
-<h2 align="center">📊 Contribution Activity</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tanmaynolkha"
-    alt="Tanmay's GitHub Contribution Graph"
-    width="100%"
+    src="https://github-stats-extended.vercel.app/api?username=tanmaynolkha&show_icons=true&theme=transparent&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tanmaynolkha&layout=compact&theme=transparent&hide_border=true"
+    height="165"
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tanmaynolkha&theme=transparent&hide_border=true"
+  />
+</p>
+
+
+
+<!-- BEGIN ACTIVITY-GRAPH -->
+
+name: Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Activity Graph
+        uses: alexcerezo/activity-graph@v1
+        with:
+          username: tanmaynolkha
+
+<!-- END ACTIVITY-GRAPH -->
 ---
 
 ## 🐍 Contribution Snake
